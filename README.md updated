@@ -1,0 +1,23 @@
+# Simple E-Commerce Store
+
+This is a basic e-commerce web project built using HTML, CSS (Bootstrap), and JavaScript.  
+It includes features such as:
+
+- Product display
+- Add to cart functionality
+- Cart sidebar with total price
+- Responsive layout using Bootstrap
+- Styled UI with gradients and hover effects
+
+## 👨‍💻 Technologies Used
+- HTML5
+- CSS3 (with Bootstrap 5)
+- JavaScript
+
+## 🛒 Features
+- Display of 3 sample Nike products with images
+- Add to Cart and Remove functionality
+- Cart sidebar with total price calculation
+- Interactive UI with hover effects and banners
+
+## 📁 File Structure
